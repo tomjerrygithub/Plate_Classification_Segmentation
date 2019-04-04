@@ -18,3 +18,4 @@ sgd 或 adam 初始lr 0.001 训练20epeoch 效果就比较好了（数据总量�
 
 ## 效果展示
 
+![模型效果图](https://github.com/tomjerrygithub/Plate_Classification_Segmentation/blob/master/images/git_plate.png])
